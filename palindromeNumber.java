@@ -1,7 +1,8 @@
+// Program to check the entered number is Palindrome or Not.
 import java.util.*;
 
 public class palindromeNumber {
-
+    // This the Function which check the number is Palindrome or Not.
     public static void isPalindrome(int number){
         int myNum = number;
         int palinNum = 0; // This variable will store the Palindrome number.
